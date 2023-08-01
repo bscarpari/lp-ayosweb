@@ -28,7 +28,7 @@ const navigation = [
       { title: 'Sobre', href: '/about' },
       { title: 'Processo', href: '/process' },
       { title: 'Blog', href: '/blog' },
-      { title: 'Contato', href: '/contact' },
+      { title: 'Templates', href: '/templates' },
     ],
   },
   {

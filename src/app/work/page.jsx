@@ -88,8 +88,6 @@ export default async function Work() {
 
       <Projects projects={projects} />
 
-      {/* <MoreLinks /> */}
-
       <ContactSection />
     </>
   )

@@ -18,7 +18,7 @@ export function ContactSection() {
             <Button
               href={'https://wa.me/+5551990104523'}
               target={'{_blank}'}
-              className="whitespace-nowrap rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-slate-200"
+              className="whitespace-nowrap rounded-md bg-white px-3.5 py-2.5 text-sm font-semibold text-[#000] shadow-sm hover:bg-slate-200"
               invert={false}
             >
               Entrar em contato
